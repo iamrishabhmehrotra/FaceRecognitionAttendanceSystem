@@ -3,6 +3,8 @@ Face Recognition attendance system with integrated student management system, co
 
 Devloped By:- Shreesh Tiwari
 
+https://github.com/workwithshreesh/FaceRecognitionAttendanceSystem/assets/117170243/a0f3d073-2601-4336-a42d-d5f5e1b54d61
+
 Features:
 
     Advanced Face Recognition: Employing cutting-edge facial recognition algorithms, the system captures and analyzes up to 100 frames per second, ensuring high accuracy in attendance tracking.
