@@ -1,6 +1,8 @@
 # FaceRecognitionAttendanceSystem
 Face Recognition attendance system with integrated student management system, computer application developed using python and frontend with tkinter module of python and backend with myaql.
 
+Devloped By:- Shreesh Tiwari
+
 Features:
 
     Advanced Face Recognition: Employing cutting-edge facial recognition algorithms, the system captures and analyzes up to 100 frames per second, ensuring high accuracy in attendance tracking.
